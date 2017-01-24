@@ -1,5 +1,11 @@
 # Spring Boot - error with Spring Security argument resolvers
 
+**UPDATE**:
+This issue was present in Spring Data Commons releases `1.11.6`/`1.12.6` and was fixed in `1.11.7`/`1.12.7`/`1.13`/`2.0`.
+See [DATACMNS-776](https://jira.spring.io/browse/DATACMNS-776).
+
+---
+
 This is a minimal project to demonstrate error that occurs when using Spring Security together
 with Spring Data.
 
